@@ -1,0 +1,56 @@
+[
+  {
+    "Id": "1",
+    "Nombre": "Producto 1",
+    "Precio": "10.99",
+    "Stock": 100,
+    "Codigo": "ABC123",
+    "Publicado": "Sí",
+    "FechaDeCreacion": "2022-01-01"
+  },
+  {
+    "Id": "2",
+    "Nombre": "Producto 2",
+    "Precio": "5.99",
+    "Stock": 50,
+    "Codigo": "DEF456",
+    "Publicado": "No",
+    "FechaDeCreacion": "2022-02-15"
+  },
+  {
+    "Id": "3",
+    "Nombre": "Producto 3",
+    "Precio": "8.49",
+    "Stock": 75,
+    "Codigo": "GHI789",
+    "Publicado": "Sí",
+    "FechaDeCreacion": "2022-03-10"
+  },
+  {
+    "Id": "4",
+    "Nombre": "Producto 4",
+    "Precio": "12.99",
+    "Stock": 20,
+    "Codigo": "JKL012",
+    "Publicado": "Sí",
+    "FechaDeCreacion": "2022-04-20"
+  },
+  {
+    "Id": "5",
+    "Nombre": "Producto 5",
+    "Precio": "6.99",
+    "Stock": 150,
+    "Codigo": "MNO345",
+    "Publicado": "No",
+    "FechaDeCreacion": "2022-05-05"
+  },
+  {
+    "Id": "6",
+    "Nombre": "Producto 6",
+    "Precio": "9.99",
+    "Stock": 10,
+    "Codigo": "PQR678",
+    "Publicado": "Sí",
+    "FechaDeCreacion": "2022-06-30"
+  }
+]
